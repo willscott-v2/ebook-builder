@@ -1,8 +1,11 @@
-# Recipe Ebook Builder — Quick Start
+# Ebook Builder — Quick Start
 
-This turns a list of recipe (or article) web links into a finished, designed ebook —
-a cover, an intro, one page per recipe, and a closing "subscribe" page — as a single
-file you can email or print. It matches the look and voice of a publication you choose.
+Turn a list of web links into a finished, designed ebook — a cover, an intro, one page
+per item, and a closing "subscribe" page — as a single file you can email or print. It
+matches the look and voice of a publication you choose.
+
+**Built for recipes first** (each page shows the dish photo, ingredients, and method), and
+it also handles **article roundups** (a "best of" collection of features or posts).
 
 **You don't run any code yourself.** You hand this folder to Claude and tell it what you
 want. Claude does the rest.
@@ -14,7 +17,7 @@ no API keys, no web hosting.
 ## Install
 ```bash
 # Claude Code
-git clone https://github.com/willscott-v2/recipe-ebook-builder.git ~/.claude/skills/recipe-ebook-builder
+git clone https://github.com/willscott-v2/ebook-builder.git ~/.claude/skills/ebook-builder
 ```
 For the desktop / Cowork app, download this repo and attach the folder to your project.
 

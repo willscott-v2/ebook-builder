@@ -1,9 +1,9 @@
 ---
-name: recipe-ebook-builder
-description: Build a branded, print-ready recipe ebook (a single self-contained HTML plus a PDF) from a list of recipe article URLs, matched to a publication's look and voice. Use when someone wants to turn already-published recipes into a cohesive downloadable cookbook or lead magnet with a cover, intro, recipe pages, and a subscribe call-to-action. Needs only the article URLs the user provides. No SEO tools and no web hosting required.
+name: ebook-builder
+description: Build a branded, print-ready ebook (a single self-contained HTML plus a PDF) from a list of URLs, matched to a publication's look and voice. Primary use: turn already-published recipes into a downloadable cookbook or lead magnet — cover, intro, one page per recipe with ingredients and method, and a subscribe call-to-action. Also builds non-recipe article roundups. Needs only the URLs the user provides. No SEO tools and no web hosting required.
 ---
 
-# Recipe Ebook Builder
+# Ebook Builder
 
 Turn a list of recipe URLs into a designed ebook: a cover, an intro written in the publication's voice, one page per recipe (hero photo, ingredients, numbered method), and a closing "subscribe" page. Output is a **single self-contained HTML file** (images embedded, so it needs no hosting) and a **PDF**.
 
